@@ -94,6 +94,7 @@ public class Assignment_1 {
         double commission;
         double responsibleWage;
         double salary;
+        System.out.println("Mau ma nhan vien: TT/TP########");
         for (int i = 0; i < soNV; i++) {
             System.out.println("Nhap thong tin nhan vien thu " + (i+1) +": ");
             while (true) {                   
